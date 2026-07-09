@@ -18,8 +18,8 @@ La validació amb usuaris és una activitat contínua durant tot el desenvolupam
 
 | Milestone                 | Objectiu                                              |    Estat   |
 | ------------------------- | ----------------------------------------------------- | :--------: |
-| **M0 · Fundació**         | Definir l'ADN del projecte                            | 🟡 En curs |
-| **M1 · Product Strategy** | Definir el producte i validar-ne la proposta de valor |      ⏳     |
+| **M0 · Fundació**         | Definir l'ADN del projecte                            | ✅ Completada |
+| **M1 · Product Strategy** | Definir el producte i validar-ne la proposta de valor | 🟡 En curs     |
 | **M2 · Brand**            | Construir la identitat de marca                       |      ⏳     |
 | **M3 · UX**               | Dissenyar l'experiència d'usuari                      |      ⏳     |
 | **M4 · Tech**             | Definir l'arquitectura tècnica                        |      ⏳     |
