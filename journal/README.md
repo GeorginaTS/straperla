@@ -14,17 +14,19 @@ Cada entrada documenta:
 
 ## Milestones
 
+## Milestones
+
 | Milestone              | Estat |
 | ---------------------- | :---: |
-| M0 · Foundation        |   ✅   |
-| M1 · Product Discovery |   ⏳   |
-| M2 · Brand             |   ⏳   |
-| M3 · UX                |   ⏳   |
-| M4 · Tech              |   ⏳   |
-| M5 · MVP               |   ⏳   |
-| M6 · Development       |   ⏳   |
-| M7 · Beta Girona       |   ⏳   |
-| M8 · Catalunya         |   ⏳   |
+| M0 · Foundation        | ✅ Done |
+| M1 · Product Discovery | 🚧 Doing |
+| M2 · Brand             | ⏳ Todo |
+| M3 · UX                | ⏳ Todo |
+| M4 · Tech              | ⏳ Todo |
+| M5 · MVP               | ⏳ Todo |
+| M6 · Development       | ⏳ Todo |
+| M7 · Beta Girona       | ⏳ Todo |
+| M8 · Catalunya         | ⏳ Todo |
 
 ---
 

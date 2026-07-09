@@ -4,176 +4,40 @@
 
 Straperla és una plataforma que connecta petits productors, horts d'autoconsum, cooperatives i consumidors per facilitar la compra i venda de productes agroalimentaris de proximitat.
 
-Aquest repositori conté tota la documentació oficial del projecte: la seva visió, la definició del producte, l'arquitectura tècnica i el full de ruta que guiarà el desenvolupament.
+Aquest repositori recull la documentació, les decisions i el desenvolupament del projecte.
 
----
+## 🌿 Visió
 
-# 📌 Estat del projecte
+Straperla vol esdevenir **l'aparador del territori**.
 
-**Versió:** v0.1
-**Estat:** 🚧 En fase de definició
-
-Actualment estem treballant en la definició estratègica del projecte abans d'iniciar el desenvolupament de l'aplicació.
-
----
-
-# 🎯 Propòsit
-
-Reconnectar les persones amb els petits productors del seu territori, facilitant un consum de proximitat més sostenible, transparent i humà.
-
----
-
-# 🌱 Principis
-
-Straperla es construeix seguint uns principis molt simples:
-
-- **KISS** — Keep It Simple.
-- **People First** — Les persones són al centre.
-- **Build with Purpose** — Cada funcionalitat ha d'aportar valor.
-- **Document Decisions** — Les decisions importants es documenten.
+Volem fer visibles els petits productors, els horts d'autoconsum, les cooperatives i les associacions perquè qualsevol persona pugui descobrir els productes de proximitat que té al seu voltant i reconnectar amb el seu territori.
 
 --- 
 
-# 🗺️ Roadmap
+## 📍 Estat del projecte
 
-| Fase                   | Estat      |
-| ---------------------- | ---------- |
-| 🌱 Fundació            | 🟡 En curs |
-| 📘 Brand Book          | ⏳ Pendent  |
-| 📗 Product Book        | ⏳ Pendent  |
-| 🎨 UX                  | ⏳ Pendent  |
-| 📙 Tech Book           | ⏳ Pendent  |
-| 💻 Desenvolupament MVP | ⏳ Pendent  |
-| 🚀 Beta Girona         | ⏳ Pendent  |
-| 🌍 Llançament          | ⏳ Pendent  |
+**Versió:** v0.1
+
+**Milestone actual:** M1 · Product Discovery
 
 ---
 
-# 📚 Documentació
+## 📚 Documentació
 
-## 📖 Fundació
-
-* [FOUNDING.md](FOUNDING.md)
-* [ROADMAP.md](ROADMAP.md)
-* [CHANGELOG.md](CHANGELOG.md)
-
----
-
-## 📘 Brand Book
-
-* [Brand Book](docs/01-brand/brand-book.md)
-* [Manifest](docs/01-brand/manifesto.md)
-* [Visió](docs/01-brand/vision.md)
-* [Missió](docs/01-brand/mission.md)
-* [Valors](docs/01-brand/values.md)
+| Document             | Descripció                                     |
+| -------------------- | ---------------------------------------------- |
+| `docs/00-foundation/FOUNDING.md`        | Per què existeix Straperla.                    |
+| `docs/00-foundation/CORE-PRINCIPLES.md` | Principis que guien el projecte.               |
+| `docs/00-foundation/ROADMAP.md`         | Full de ruta del projecte.                     |
+| `journal/`           | Història i evolució del projecte.              |
+| `docs/`              | Documentació funcional, tècnica i de producte. |
 
 ---
 
-## 📗 Product Book
+## 🌱 Filosofia
 
-* [Product Book](docs/02-product/product-book.md)
-* [Problema](docs/02-product/problem.md)
-* [Públic objectiu](docs/02-product/target-audience.md)
-* [Proposta de valor](docs/02-product/value-proposition.md)
-* [MVP](docs/02-product/mvp.md)
+> **Poc a poc i bona lletra.**
 
 ---
-
-## 🎨 UX
-
-* User Journey
-* Sitemap
-* Wireframes
-* User Flows
-
----
-
-## 📙 Tech Book
-
-* Tech Stack
-* Arquitectura
-* Model de dades
-* API
-* Infraestructura
-* Seguretat
-
----
-
-## 📕 Startup Book
-
-* Model de negoci
-* Estratègia
-* Màrqueting
-* Llançament
-* Mètriques
-
----
-
-# 📑 Decisions
-
-Les decisions importants del projecte es documenten individualment.
-
-Exemples:
-
-* DEC-001 — Nom del projecte
-* DEC-002 — Tecnologia
-* DEC-003 — Àmbit inicial
-* DEC-004 — MVP
-
----
-
-# 📅 Metodologia
-
-El projecte es desenvolupa en cicles de treball de dues setmanes (Sprints).
-
-Cada Sprint ha de finalitzar amb un entregable verificable:
-
-* Documentació
-* Wireframes
-* Components
-* Funcionalitats
-* Proves
-
-La prioritat és construir un producte útil abans que construir moltes funcionalitats.
-
----
-
-# 🌿 Els nostres principis
-
-* Primer entendre, després programar.
-* La tecnologia és una eina, no el propòsit.
-* Les persones són més importants que els productes.
-* El territori és el centre del projecte.
-* Cada decisió important queda documentada.
-* Construïm amb calma. Pensem en gran. Validem aviat.
-
----
-
-# 🚀 Estat actual
-
-**Milestone M0 — Fundació del projecte**
-
-## Completat
-
-* ✅ Nom del projecte
-* ✅ Visió inicial
-* ✅ Roadmap
-* ✅ Repositori Git
-* ✅ Metodologia de treball
-
-## En curs
-
-* 🚧 FOUNDING.md
-* 🚧 Brand Book v0.1
-
----
-
-# 💚 Llicència
-
-Aquest repositori forma part del projecte **Straperla**.
 
 © 2026 Georgina Tomas
-
----
-
-> *"No estem construint només una aplicació. Estem construint una comunitat que reconnecta les persones amb el seu territori."*
