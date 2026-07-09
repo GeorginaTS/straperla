@@ -23,6 +23,17 @@ Reconnectar les persones amb els petits productors del seu territori, facilitant
 
 ---
 
+# 🌱 Principis
+
+Straperla es construeix seguint uns principis molt simples:
+
+- **KISS** — Keep It Simple.
+- **People First** — Les persones són al centre.
+- **Build with Purpose** — Cada funcionalitat ha d'aportar valor.
+- **Document Decisions** — Les decisions importants es documenten.
+
+--- 
+
 # 🗺️ Roadmap
 
 | Fase                   | Estat      |
