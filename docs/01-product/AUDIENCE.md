@@ -22,5 +22,10 @@ Straperla no està orientada a grans cadenes de distribució, majoristes ni inte
 
 El projecte prioritza la relació directa entre productor i consumidor.
 
+## Resultats esperats
+
+* Tenim perfils reals de productors, elaboradors i consumidors que coincideixen amb aquesta descripció.
+* Es comprova que no volem atendre cadenes grans, majoristes ni intermediaris en la primera fase.
+* Els requisits de productors i consumidors serveixen per prioritzar funcionalitats inicials (visibilitat, cerca, contacte directe).
 
 > *Connectar persones comença per entendre a qui volem ajudar.*

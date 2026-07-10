@@ -58,6 +58,12 @@ Afegides al `PARKING-LOT.md`:
 * Estudiar una possible ampliació futura a productes artesanals vinculats al territori.
 * Definir el concepte de territori dins de la identitat del projecte.
 
+## Criteris d’èxit de la fase
+
+* Tenir documents clars de problema, públic, valor, abast i persones.
+* Validar que l’equip i stakeholders entenen que Straperla no és un marketplace.
+* Tenir la base suficient per iniciar la fase de marca i UX.
+
 ## Aprenentatges
 
 Abans de construir cal entendre el problema, les persones i el valor que volem aportar.

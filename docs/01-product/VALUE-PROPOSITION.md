@@ -24,6 +24,12 @@ Quan productors i consumidors es coneixen, el territori també en surt beneficia
 
 Straperla contribueix a donar visibilitat a la producció local, afavorir el consum de proximitat i reforçar els vincles entre les persones i el seu entorn.
 
-## En una frase
+
+## Criteris d’èxit
+
+* La proposta de valor es pot explicar en una frase senzilla: “Fem visible allò que el territori ja produeix”.
+* Productors perceben el valor com una eina per donar visibilitat i connexió directa.
+* Consumidors perceben el valor com a descoberta de productes locals i contacte directe amb el productor.
+
 
 >*Fem visible allò que el territori ja produeix.*

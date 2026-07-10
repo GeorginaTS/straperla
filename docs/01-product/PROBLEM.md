@@ -21,3 +21,9 @@ Aquesta situació té conseqüències per a tots els actors implicats:
 ## La nostra convicció
 
 Creiem que fer visible allò que el territori ja produeix és el primer pas per reconnectar productors i consumidors, reduir el malbaratament i reforçar l'economia local.
+
+## Criteris d’èxit
+
+* Els productors identifiquen clarament la falta de visibilitat com el problema principal.
+* Els consumidors reconeixen que el problema és desconèixer què es produeix al territori.
+* El projecte es pot justificar com a solució perquè connecta oferta local amb demanda interessada sense crear nous productes.

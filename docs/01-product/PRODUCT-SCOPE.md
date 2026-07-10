@@ -30,4 +30,10 @@ Per formar part de Straperla, un producte ha de:
 * Ser ofert directament pel productor.
 * Encaixar amb la filosofia del projecte i el seu enfocament de proximitat.
 
+## Criteris d’èxit
+
+* La primera versió només inclou productes locals i directes del productor.
+* No es permeten animals vius, serveis/experiències ni revenda/intermediaris.
+* Cada producte publicat compleix el criteri d’origen local i s’ofereix directament pel productor.
+
 > *No tot hi ha de ser. Només allò que dona sentit al projecte.*

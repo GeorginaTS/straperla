@@ -53,4 +53,10 @@ Trobar productes de proximitat i contactar directament amb els seus productors.
 
 ---
 
+## Resultats esperats
+
+* Cada persona té una necessitat concreta que es pot traduir en funcionalitats: presentar producte, mostrar origen, facilitar contacte.
+* Les decisions de disseny i desenvolupament es poden validar contra aquests perfils.
+* Si una funcionalitat no ajuda cap d’aquests perfils, es descarta o es deixa per més endavant.
+
 > *Més que trobar-se, és conèixer-se.*
