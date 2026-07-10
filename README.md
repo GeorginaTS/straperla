@@ -13,6 +13,19 @@ Straperla vol esdevenir **l'aparador del territori**.
 Volem fer visibles els petits productors, els horts d'autoconsum, les cooperatives i les associacions perquè qualsevol persona pugui descobrir els productes de proximitat que té al seu voltant i reconnectar amb el seu territori.
 
 --- 
+## Què és Straperla?
+
+**L'aparador del territori.**
+
+## Què fa?
+
+**Fa visible allò que el territori ja produeix.**
+
+## Per què existeix?
+
+**Per reconnectar les persones amb els productors i els productes del seu territori.**
+
+---
 
 ## 📍 Estat del projecte
 

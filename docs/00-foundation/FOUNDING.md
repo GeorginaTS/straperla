@@ -54,3 +54,6 @@ Si la resposta és sí, continuarem endavant.
 Avui no comença només un projecte tecnològic.
 
 Comença el compromís de construir una eina útil per a les persones que produeixen, comparteixen i consumeixen productes de proximitat.
+
+
+> *Tot gran projecte comença amb un propòsit*
