@@ -7,6 +7,7 @@ Aquest document recull els acords que guien la manera de treballar en el project
 * Primer entendre, després construir.
 * Prioritzem el producte abans que la tecnologia.
 * Cada decisió ha de respondre a un problema real.
+* No anticipem problemes que encara no existeixen.
 
 ## 2. Documentar
 
@@ -25,5 +26,6 @@ Aquest document recull els acords que guien la manera de treballar en el project
 
 
 ---
+
 
 >*Una decisió només passa a ser definitiva quan ha resistit el pas del temps.*

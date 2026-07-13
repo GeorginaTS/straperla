@@ -19,8 +19,8 @@ Cada entrada documenta:
 | Milestone              | Estat |
 | ---------------------- | :---: |
 | M0 · Foundation        | ✅ Done |
-| M1 · Product Discovery | 🚧 Doing |
-| M2 · Brand             | ⏳ Todo |
+| M1 · Product Discovery | ✅ Done |
+| M2 · Brand             | 🚧 Doing |
 | M3 · UX                | ⏳ Todo |
 | M4 · Tech              | ⏳ Todo |
 | M5 · MVP               | ⏳ Todo |

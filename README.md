@@ -1,19 +1,24 @@
 # 🌱 Straperla
 
-> **La tecnologia al servei del territori.**
+> *El valor ja existeix. Només cal donar-li visibilitat.*
 
-Straperla és una plataforma que connecta petits productors, horts d'autoconsum, cooperatives i consumidors per facilitar la compra i venda de productes agroalimentaris de proximitat.
+**La tecnologia al servei del territori.**
 
-Aquest repositori recull la documentació, les decisions i el desenvolupament del projecte.
+Straperla és una eina que connecta productors i consumidors per fer visibles els productes de proximitat i facilitar que es coneguin.
+
+Aquest repositori recull la documentació, les decisions i l'evolució del projecte.
+
+---
 
 ## 🌿 Visió
 
-Straperla vol esdevenir **l'aparador del territori**.
+**Straperla vol esdevenir l'aparador del territori.**
 
-Volem fer visibles els petits productors, els horts d'autoconsum, les cooperatives i les associacions perquè qualsevol persona pugui descobrir els productes de proximitat que té al seu voltant i reconnectar amb el seu territori.
+Volem que qualsevol persona pugui descobrir què es produeix al seu voltant i conèixer les persones que hi ha darrere de cada producte, contribuint així a un territori més connectat, sostenible i proper.
 
---- 
-## Què és Straperla?
+---
+
+## Què és?
 
 **L'aparador del territori.**
 
@@ -29,27 +34,29 @@ Volem fer visibles els petits productors, els horts d'autoconsum, les cooperativ
 
 ## 📍 Estat del projecte
 
-**Versió:** v0.1
+**Versió:** `v0.2.0`
 
-**Milestone actual:** M1 · Product Discovery
+**Milestone actual:** 🚧 **M2 · Brand**
 
 ---
 
 ## 📚 Documentació
 
-| Document             | Descripció                                     |
-| -------------------- | ---------------------------------------------- |
-| `docs/00-foundation/FOUNDING.md`        | Per què existeix Straperla.                    |
-| `docs/00-foundation/CORE-PRINCIPLES.md` | Principis que guien el projecte.               |
-| `docs/00-foundation/ROADMAP.md`         | Full de ruta del projecte.                     |
-| `journal/`           | Història i evolució del projecte.              |
-| `docs/`              | Documentació funcional, tècnica i de producte. |
+| Carpeta               | Contingut                                         |
+| --------------------- | ------------------------------------------------- |
+| `docs/00-foundation/` | Fonaments, principis i full de ruta del projecte. |
+| `docs/01-product/`    | Definició del producte i les seves bases.         |
+| `docs/02-brand/`      | Identitat, manifest i marca de Straperla.         |
+| `docs/03-ux/`         | Experiència d'usuari i disseny de la interfície.  |
+| `docs/04-tech/`       | Arquitectura, tecnologia i decisions tècniques.   |
+| `docs/05-startup/`    | Estratègia, model de negoci i llançament.         |
+| `journal/`            | Història i evolució del projecte.                 |
 
 ---
 
 ## 🌱 Filosofia
 
-> **Poc a poc i bona lletra.**
+> *Poc a poc i bona lletra.*
 
 ---
 
