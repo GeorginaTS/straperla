@@ -42,15 +42,17 @@ Volem que qualsevol persona pugui descobrir què es produeix al seu voltant i co
 
 ## 📚 Documentació
 
-| Carpeta               | Contingut                                         |
-| --------------------- | ------------------------------------------------- |
-| `docs/00-foundation/` | Fonaments, principis i full de ruta del projecte. |
-| `docs/01-product/`    | Definició del producte i les seves bases.         |
-| `docs/02-brand/`      | Identitat, manifest i marca de Straperla.         |
-| `docs/03-ux/`         | Experiència d'usuari i disseny de la interfície.  |
-| `docs/04-tech/`       | Arquitectura, tecnologia i decisions tècniques.   |
-| `docs/05-startup/`    | Estratègia, model de negoci i llançament.         |
-| `journal/`            | Història i evolució del projecte.                 |
+| Carpeta               | Contingut                                                |
+| --------------------- | -------------------------------------------------------- |
+| `docs/00-foundation/` | Fonaments, principis i full de ruta del projecte.        |
+| `docs/01-product/`    | Definició del producte, el seu abast i el seu contingut. |
+| `docs/02-brand/`      | Identitat, propòsit i personalitat de la marca.          |
+| `docs/03-ux/`         | Experiència d'usuari, arquitectura i recorreguts.        |
+| `docs/04-ui/`         | Disseny visual, components i sistema de disseny.         |
+| `docs/05-tech/`       | Arquitectura, tecnologia i decisions tècniques.          |
+| `docs/06-startup/`    | Estratègia, model de negoci i llançament.                |
+| `journal/`            | Història i evolució del projecte.                        |
+
 
 ---
 

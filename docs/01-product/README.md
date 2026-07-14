@@ -6,14 +6,15 @@ L'objectiu és entendre el problema, definir el valor que aporta el projecte i e
 
 ## Documents
 
-| Document               | Descripció                                   |
-| ---------------------- | -------------------------------------------- |
-| `PROBLEM.md`           | Problema que resol Straperla.                |
-| `AUDIENCE.md`          | A qui s'adreça el producte.                  |
-| `VALUE-PROPOSITION.md` | Valor que aporta Straperla.                  |
-| `PRODUCT-SCOPE.md`     | Què forma part del producte i què no.        |
-| `USER-PERSONAS.md`     | Perfils representatius dels usuaris.         |
-| `MVP.md`               | Definició de la primera versió del producte. |
+| Document               | Descripció                                                        |
+| ---------------------- | ----------------------------------------------------------------- |
+| `PROBLEM.md`           | Problema que resol Straperla.                                     |
+| `AUDIENCE.md`          | A qui s'adreça el producte.                                       |
+| `VALUE-PROPOSITION.md` | Valor que aporta Straperla.                                       |
+| `PRODUCT-SCOPE.md`     | Què forma part del producte i què no.                             |
+| `PRODUCT-CATALOG.md`   | Categories i criteris dels productes que es poden publicar.       |
+| `USER-PERSONAS.md`     | Perfils representatius dels usuaris.                              |
+| `MVP.md`               | Definició de la primera versió del producte.                      |
 
 ## Objectiu de la fase
 
