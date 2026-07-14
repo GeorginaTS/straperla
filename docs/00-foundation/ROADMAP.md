@@ -1,8 +1,8 @@
 # 🗺️ Roadmap
 
 **Projecte:** Straperla
-**Versió:** 1.0
-**Data:** 9 de juliol de 2026
+**Versió:** 1.1
+**Data:** 14 de juliol de 2026
 
 ---
 
@@ -10,32 +10,33 @@
 
 Aquest roadmap defineix les principals fites del projecte.
 
-Cada milestone representa un objectiu completat abans de passar al següent.
+Cada milestone representa una etapa completada abans de passar a la següent.
 
-La validació amb usuaris és una activitat contínua durant tot el desenvolupament.
+La validació amb usuaris forma part de tot el procés de desenvolupament.
 
 ---
 
-| Milestone                 | Objectiu                                              |    Estat   |
-| ------------------------- | ----------------------------------------------------- | :--------: |
-| **M0 · Fundació**         | Definir l'ADN del projecte                            | ✅ Completada |
-| **M1 · Product Strategy** | Definir el producte i validar-ne la proposta de valor | ✅ Completada |
-| **M2 · Brand**            | Construir la identitat de marca                       | 🟡 En curs |
-| **M3 · UX**               | Dissenyar l'experiència d'usuari                      |      ⏳     |
-| **M4 · Tech**             | Definir l'arquitectura tècnica                        |      ⏳     |
-| **M5 · MVP**              | Delimitar la primera versió del producte              |      ⏳     |
-| **M6 · Development**      | Desenvolupar l'MVP                                    |      ⏳     |
-| **M7 · Beta Girona**      | Validar el producte amb usuaris reals                 |      ⏳     |
-| **M8 · Catalunya**        | Llançament de la primera versió pública               |      ⏳     |
+| Milestone                  | Objectiu                                                           |     Estat    |
+| -------------------------- | ------------------------------------------------------------------ | :----------: |
+| **M0 · Foundation**        | Definir els fonaments del projecte.                                | ✅ Completada |
+| **M1 · Product Discovery** | Entendre el problema i definir el producte.                        | ✅ Completada |
+| **M2 · Brand**             | Construir la identitat de marca.                                   | ✅ Completada |
+| **M3 · UX**                | Definir l'experiència d'usuari.                                    | ✅ Completada |
+| **M4 · UI**                | Dissenyar la interfície visual i el sistema de disseny.            |  🚧 En curs  |
+| **M5 · Tech**              | Definir l'arquitectura tècnica i les decisions de desenvolupament. |   ⏳ Pendent  |
+| **M6 · MVP**               | Desenvolupar la primera versió funcional del producte.             |   ⏳ Pendent  |
+| **M7 · Beta Girona**       | Validar el producte amb productors i consumidors de Girona.        |   ⏳ Pendent  |
+| **M8 · Catalunya**         | Preparar el llançament de la primera versió pública a Catalunya.   |   ⏳ Pendent  |
 
 ---
 
 ## Criteris de treball
 
 * Cada milestone té un objectiu clar i uns entregables definits.
-* No s'inicia una milestone nova fins que l'anterior està prou madura.
-* La validació amb productors i consumidors forma part de tot el projecte.
-* Les prioritats poden canviar segons l'aprenentatge obtingut durant la validació.
+* No s'inicia una nova fase fins que l'anterior està prou consolidada.
+* La validació amb usuaris acompanya tot el desenvolupament.
+* Les decisions es documenten abans d'implementar-les, sempre que sigui possible.
+* La simplicitat (**KISS**) guia totes les fases del projecte.
 
 ---
 
@@ -43,4 +44,4 @@ La validació amb usuaris és una activitat contínua durant tot el desenvolupam
 
 > **Poc a poc i bona lletra.**
 
-Construïm sobre fonaments sòlids, validem les decisions i avancem de manera constant.
+Construïm sobre fonaments sòlids, validem les decisions i avancem pas a pas.
