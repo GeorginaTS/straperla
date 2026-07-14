@@ -20,7 +20,7 @@ Aquest document recull els acords que guien la manera de treballar en el project
 ## 3. Construir
 
 * KISS. Mantinguem les solucions tan simples com sigui possible.
-* Si una idea no és necessària per a la milestone actual, va al `PARKING-LOT.md`.
+* Si una idea no és necessària per a la milestone actual, va al `05-PARKING-LOT.md`.
 * Validem abans d'afegir funcionalitats.
 * La simplicitat és una tasca contínua.
 

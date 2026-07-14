@@ -10,14 +10,14 @@ Definir l'experiència d'usuari de Straperla abans d'iniciar el disseny visual d
 ## Documents creats
 
 * `README.md`
-* `UX-GOALS.md`
-* `UX-PRINCIPLES.md`
-* `ROLES.md`
-* `USER-JOURNEYS.md`
-* `USER-FLOWS.md`
-* `INFORMATION-ARCHITECTURE.md`
-* `CONTENT-STRATEGY.md`
-* `ACCESSIBILITY.md`
+* `01-UX-GOALS.md`
+* `02-UX-PRINCIPLES.md`
+* `03-ROLES.md`
+* `04-USER-JOURNEYS.md`
+* `05-USER-FLOWS.md`
+* `06-INFORMATION-ARCHITECTURE.md`
+* `07-CONTENT-STRATEGY.md`
+* `08-ACCESSIBILITY.md`
 
 ## Decisions principals
 

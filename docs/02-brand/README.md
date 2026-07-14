@@ -8,16 +8,16 @@ L'objectiu és definir qui som, què representem i com volem comunicar-ho abans 
 
 | Document             | Descripció                                                        |
 | -------------------- | ----------------------------------------------------------------- |
-| `MANIFEST.md`        | Per què existeix Straperla i en què creiem.                       |
-| `VISION.md`          | On volem arribar.                                                 |
-| `MISSION.md`         | Quin és el nostre propòsit i com el fem realitat.                 |
-| `VALUES.md`          | Principis que guien la marca.                                     |
-| `BRAND-PROMISE.md`   | El compromís de Straperla amb productors i consumidors.           |
-| `PERSONALITY.md`     | Com és la nostra marca.                                           |
-| `TONE-OF-VOICE.md`   | Com ens expressem i ens comuniquem.                               |
-| `NAMING.md`          | Origen i significat del nom Straperla.                            |
-| `TAGLINES.md`        | Frases que defineixen i acompanyen la marca.                      |
-| `VISUAL-IDENTITY.md` | Identitat visual: logotip, colors, tipografia i recursos gràfics. |
+| `01-MANIFEST.md`        | Per què existeix Straperla i en què creiem.                       |
+| `02-VISION.md`          | On volem arribar.                                                 |
+| `03-MISSION.md`         | Quin és el nostre propòsit i com el fem realitat.                 |
+| `04-VALUES.md`          | Principis que guien la marca.                                     |
+| `05-BRAND-PROMISE.md`   | El compromís de Straperla amb productors i consumidors.           |
+| `06-PERSONALITY.md`     | Com és la nostra marca.                                           |
+| `07-TONE-OF-VOICE.md`   | Com ens expressem i ens comuniquem.                               |
+| `08-NAMING.md`          | Origen i significat del nom Straperla.                            |
+| `09-TAGLINES.md`        | Frases que defineixen i acompanyen la marca.                      |
+| `10-VISUAL-IDENTITY.md` | Identitat visual: logotip, colors, tipografia i recursos gràfics. |
 
 ---
 

@@ -10,14 +10,14 @@ Definir la identitat de marca de Straperla perquè totes les decisions de dissen
 ## Documents creats
 
 * `README.md`
-* `MANIFEST.md`
-* `VISION.md`
-* `MISSION.md`
-* `VALUES.md`
-* `BRAND-PROMISE.md`
-* `PERSONALITY.md`
-* `TONE-OF-VOICE.md`
-* `TAGLINES.md`
+* `01-MANIFEST.md`
+* `02-VISION.md`
+* `03-MISSION.md`
+* `04-VALUES.md`
+* `05-BRAND-PROMISE.md`
+* `06-PERSONALITY.md`
+* `07-TONE-OF-VOICE.md`
+* `09-TAGLINES.md`
 
 ## Decisions principals
 
@@ -60,8 +60,8 @@ Straperla es defineix com una marca:
 
 La fase continua oberta fins completar:
 
-* `NAMING.md`
-* `VISUAL-IDENTITY.md`
+* `08-NAMING.md`
+* `10-VISUAL-IDENTITY.md`
 
 ## Criteris d’èxit de la fase
 

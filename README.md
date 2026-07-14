@@ -34,9 +34,9 @@ Volem que qualsevol persona pugui descobrir què es produeix al seu voltant i co
 
 ## 📍 Estat del projecte
 
-**Versió:** `v0.2.0`
+**Versió:** `v0.3.0`
 
-**Milestone actual:** 🚧 **M2 · Brand**
+**Milestone actual:** 🚧 **M4 · ui**
 
 ---
 

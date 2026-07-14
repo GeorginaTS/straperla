@@ -9,9 +9,9 @@ Definir els fonaments de Straperla abans d'iniciar la definició del producte i 
 ## Entregables
 
 * ✅ `README.md`
-* ✅ `FOUNDING.md`
-* ✅ `CORE-PRINCIPLES.md`
-* ✅ `ROADMAP.md`
+* ✅ `01-FOUNDING.md`
+* ✅ `02-CORE-PRINCIPLES.md`
+* ✅ `03-ROADMAP.md`
 
 ## Decisions
 
