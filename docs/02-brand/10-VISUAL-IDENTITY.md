@@ -105,7 +105,6 @@ Els primers conceptes exploren la relació entre:
 
 > Les propostes següents són exploracions conceptuals, no dissenys definitius.
 
-![Logo concepts](./images/logo-concepts-v1.png)
 ![Logo concepts](./images/logo-concepts-v2.png)
 
 ---
