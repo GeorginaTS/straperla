@@ -72,6 +72,42 @@ Straperla ha de semblar:
 
 > Una finestra digital al valor del territori.
 
+
+---
+
+## Logotip
+
+El logotip és la representació més sintetitzada de la identitat de Straperla.
+
+Ha de ser senzill, recognoscible i atemporal.
+
+No ha de representar literalment l'agricultura, sinó la idea de descoberta i de valor.
+
+### Criteris
+
+* Ha de funcionar tant amb el símbol com només amb la paraula «Straperla».
+* Ha de ser llegible en mides petites.
+* Ha de poder utilitzar-se en una sola tinta.
+* Ha de transmetre proximitat i confiança.
+* Ha d'evitar recursos gràfics excessivament evidents o genèrics.
+
+## Exploració del logotip
+
+Abans de definir el logotip final, s'exploraran diferents conceptes que representin la idea central de Straperla.
+
+L'objectiu no és representar l'agricultura, sinó el valor ocult que espera ser descobert.
+
+Els primers conceptes exploren la relació entre:
+
+- una perla com a metàfora del valor;
+- un marc, finestra o aparador com a símbol de visibilitat;
+- la simplicitat com a principi de disseny.
+
+> Les propostes següents són exploracions conceptuals, no dissenys definitius.
+
+![Logo concepts](./images/logo-concepts-v1.png)
+![Logo concepts](./images/logo-concepts-v2.png)
+
 ---
 
 > *La identitat visual no ha de destacar més que allò que ajuda a descobrir.*

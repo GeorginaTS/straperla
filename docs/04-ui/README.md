@@ -1,13 +1,36 @@
-# UI
+# 🎨 UI
 
-Aquesta carpeta està reservada per a la documentació de la fase de disseny visual i sistema d'interfície.
+Aquesta carpeta recull tota la documentació relacionada amb la interfície d'usuari de Straperla.
 
-Actualment, la fase `M4 · UI` està en curs segons `00-foundation/03-ROADMAP.md`.
+L'objectiu és transformar els principis de marca i d'experiència d'usuari en una interfície visual clara, coherent i accessible.
 
-## Documents previstos
+## Documents
 
-* `10-VISUAL-IDENTITY.md` — Direcció visual general i criteris de disseny.
-* `UI-KIT.md` — Components i estils d'interfície.
-* `PATTERNS.md` — Patrons de disseny i interacció.
+| Document               | Descripció                                                 |
+| ---------------------- | ---------------------------------------------------------- |
+| `VISUAL-PRINCIPLES.md` | Principis que guien totes les decisions de disseny visual. |
+| `DESIGN-SYSTEM.md`     | Normes generals del sistema de disseny.                    |
+| `COLORS.md`            | Paleta de colors i criteris d'ús.                          |
+| `TYPOGRAPHY.md`        | Sistema tipogràfic i jerarquia dels textos.                |
+| `GRID-SPACING.md`      | Estructura, espaiat i composició de la interfície.         |
+| `ICONOGRAPHY.md`       | Estil i ús de les icones.                                  |
+| `COMPONENTS.md`        | Components reutilitzables de la interfície.                |
+| `SCREEN-PATTERNS.md`   | Patrons comuns de les principals pantalles.                |
 
-> *Aquesta carpeta acollirà els recursos que connecten la proposta de valor amb la interfície final.*
+> La documentació evolucionarà a mesura que el producte maduri.
+
+---
+
+## Objectiu de la fase
+
+Abans de dissenyar pantalles, hem de poder respondre amb claredat aquestes preguntes:
+
+* Quina sensació ha de transmetre Straperla?
+* Com es reflecteixen els valors de la marca en la interfície?
+* Com podem facilitar la descoberta dels productes sense generar distraccions?
+* Com mantenim una experiència clara, coherent i accessible?
+* Com construïm un sistema visual fàcil de mantenir i d'evolucionar?
+
+---
+
+> *Quan el disseny és clar, trobar el que busques esdevé natural.*

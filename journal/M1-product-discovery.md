@@ -9,11 +9,11 @@ Definir les bases del producte Straperla abans d'iniciar les fases de marca, UX 
 
 ## Documents creats
 
-* `01-PROBLEM.md`
-* `02-AUDIENCE.md`
-* `03-VALUE-PROPOSITION.md`
-* `04-PRODUCT-SCOPE.md`
-* `06-USER-PERSONAS.md`
+* [`01-PROBLEM.md`](../docs/01-product/01-PROBLEM.md)
+* [`02-AUDIENCE.md`](../docs/01-product/02-AUDIENCE.md)
+* [`03-VALUE-PROPOSITION.md`](../docs/01-product/03-VALUE-PROPOSITION.md)
+* [`04-PRODUCT-SCOPE.md`](../docs/01-product/04-PRODUCT-SCOPE.md)
+* [`06-USER-PERSONAS.md`](../docs/01-product/06-USER-PERSONAS.md)
 
 ## Decisions principals
 
@@ -52,7 +52,7 @@ Queden fora inicialment:
 
 ## Decisions pendents
 
-Afegides al `00-foundation/05-PARKING-LOT.md`:
+Afegides al [`00-foundation/05-PARKING-LOT.md`](../docs/00-foundation/05-PARKING-LOT.md):
 
 * Definir el sistema de verificació dels elaboradors i de les dades publicades.
 * Estudiar una possible ampliació futura a productes artesanals vinculats al territori.

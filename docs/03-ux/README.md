@@ -90,14 +90,14 @@ La proximitat i la temporada formen part de l'experiència.
 
 | Document                      | Descripció                                           |
 | ----------------------------- | ---------------------------------------------------- |
-| `01-UX-GOALS.md`                 | Objectius de l'experiència d'usuari.                 |
-| `02-UX-PRINCIPLES.md`            | Principis que guien les decisions d'experiència.     |
-| `03-ROLES.md`                    | Definició dels rols principals.                   |
-| `04-USER-JOURNEYS.md`            | Recorreguts principals dels usuaris.                 |
-| `05-USER-FLOWS.md`               | Fluxos d'interacció dins del producte.               |
-| `06-INFORMATION-ARCHITECTURE.md` | Organització de la informació.                       |
-| `07-CONTENT-STRATEGY.md`         | Criteris per estructurar i comunicar els continguts. |
-| `08-ACCESSIBILITY.md`            | Criteris d'accessibilitat.                           |
+| [`01-UX-GOALS.md`](01-UX-GOALS.md)                 | Objectius de l'experiència d'usuari.                 |
+| [`02-UX-PRINCIPLES.md`](02-UX-PRINCIPLES.md)            | Principis que guien les decisions d'experiència.     |
+| [`03-ROLES.md`](03-ROLES.md)                    | Definició dels rols principals.                   |
+| [`04-USER-JOURNEYS.md`](04-USER-JOURNEYS.md)            | Recorreguts principals dels usuaris.                 |
+| [`05-USER-FLOWS.md`](05-USER-FLOWS.md)               | Fluxos d'interacció dins del producte.               |
+| [`06-INFORMATION-ARCHITECTURE.md`](06-INFORMATION-ARCHITECTURE.md) | Organització de la informació.                       |
+| [`07-CONTENT-STRATEGY.md`](07-CONTENT-STRATEGY.md)         | Criteris per estructurar i comunicar els continguts. |
+| [`08-ACCESSIBILITY.md`](08-ACCESSIBILITY.md)            | Criteris d'accessibilitat.                           |
 
 > La llista de documents pot evolucionar a mesura que el projecte avanci.
 

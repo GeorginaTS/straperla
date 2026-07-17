@@ -12,11 +12,11 @@ Aquesta carpeta recull els documents que defineixen els fonaments del projecte.
 
 ## Com usar aquests documents
 
-1. Comença per `01-FOUNDING.md` per entendre el propòsit.
-2. Revisa `02-CORE-PRINCIPLES.md` per conèixer els criteris de decisió.
-3. Consulta `03-ROADMAP.md` per veure com s'organitzen les fases.
-4. Fes servir `04-WORKING-AGREEMENT.md` per alinear la forma de treballar.
-5. Desa idees no prioritàries a `05-PARKING-LOT.md`.
+1. Comença per [`01-FOUNDING.md`](01-FOUNDING.md) per entendre el propòsit.
+2. Revisa [`02-CORE-PRINCIPLES.md`](02-CORE-PRINCIPLES.md) per conèixer els criteris de decisió.
+3. Consulta [`03-ROADMAP.md`](03-ROADMAP.md) per veure com s'organitzen les fases.
+4. Fes servir [`04-WORKING-AGREEMENT.md`](04-WORKING-AGREEMENT.md) per alinear la forma de treballar.
+5. Desa idees no prioritàries a [`05-PARKING-LOT.md`](05-PARKING-LOT.md).
 
 ---
 

@@ -9,15 +9,15 @@ Definir la identitat de marca de Straperla perquè totes les decisions de dissen
 
 ## Documents creats
 
-* `README.md`
-* `01-MANIFEST.md`
-* `02-VISION.md`
-* `03-MISSION.md`
-* `04-VALUES.md`
-* `05-BRAND-PROMISE.md`
-* `06-PERSONALITY.md`
-* `07-TONE-OF-VOICE.md`
-* `09-TAGLINES.md`
+* [`README.md`](../docs/02-brand/README.md)
+* [`01-MANIFEST.md`](../docs/02-brand/01-MANIFEST.md)
+* [`02-VISION.md`](../docs/02-brand/02-VISION.md)
+* [`03-MISSION.md`](../docs/02-brand/03-MISSION.md)
+* [`04-VALUES.md`](../docs/02-brand/04-VALUES.md)
+* [`05-BRAND-PROMISE.md`](../docs/02-brand/05-BRAND-PROMISE.md)
+* [`06-PERSONALITY.md`](../docs/02-brand/06-PERSONALITY.md)
+* [`07-TONE-OF-VOICE.md`](../docs/02-brand/07-TONE-OF-VOICE.md)
+* [`09-TAGLINES.md`](../docs/02-brand/09-TAGLINES.md)
 
 ## Decisions principals
 
@@ -60,8 +60,8 @@ Straperla es defineix com una marca:
 
 La fase continua oberta fins completar:
 
-* `08-NAMING.md`
-* `10-VISUAL-IDENTITY.md`
+* [`08-NAMING.md`](../docs/02-brand/08-NAMING.md)
+* [`10-VISUAL-IDENTITY.md`](../docs/02-brand/10-VISUAL-IDENTITY.md)
 
 ## Criteris d’èxit de la fase
 
