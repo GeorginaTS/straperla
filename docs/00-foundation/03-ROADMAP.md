@@ -1,8 +1,8 @@
 # 🗺️ Roadmap
 
 **Projecte:** Straperla
-**Versió:** 1.1
-**Data:** 14 de juliol de 2026
+**Versió:** 1.5
+**Data:** 22 de juliol de 2026
 
 ---
 
@@ -20,10 +20,10 @@ La validació amb usuaris forma part de tot el procés de desenvolupament.
 | -------------------------- | ------------------------------------------------------------------ | :----------: |
 | **M0 · Foundation**        | Definir els fonaments del projecte.                                | ✅ Completada |
 | **M1 · Product Discovery** | Entendre el problema i definir el producte.                        | ✅ Completada |
-| **M2 · Brand**             | Construir la identitat de marca.                                   | ✅ Completada |
+| **M2 · Brand**             | Construir la identitat de marca.                                   | 🚧 En curs  |
 | **M3 · UX**                | Definir l'experiència d'usuari.                                    | ✅ Completada |
-| **M4 · UI**                | Dissenyar la interfície visual i el sistema de disseny.            |  🚧 En curs  |
-| **M5 · Tech**              | Definir l'arquitectura tècnica i les decisions de desenvolupament. |   ⏳ Pendent  |
+| **M4 · UI**                | Dissenyar la interfície visual i el sistema de disseny.            | ✅ Completada |
+| **M5 · Tech**              | Definir l'arquitectura tècnica i les decisions de desenvolupament. | 🚧 En curs  |
 | **M6 · MVP**               | Desenvolupar la primera versió funcional del producte.             |   ⏳ Pendent  |
 | **M7 · Beta Girona**       | Validar el producte amb productors i consumidors de Girona.        |   ⏳ Pendent  |
 | **M8 · Catalunya**         | Preparar el llançament de la primera versió pública a Catalunya.   |   ⏳ Pendent  |

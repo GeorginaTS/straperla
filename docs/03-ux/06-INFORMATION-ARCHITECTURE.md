@@ -23,10 +23,6 @@ L'arquitectura de la informació ha de respondre a les necessitats de les person
 
 ```
 Inici
-├── Cerca
-├── Categories
-├── Productes de proximitat
-└── Accés al mapa
 
 Mapa
 
@@ -57,7 +53,7 @@ La presentació ocupa la part superior de la pantalla i es redueix quan l'usuari
 
 # Cerca
 
-La cerca és el principal mecanisme per trobar informació.
+La cerca és el principal mecanisme per descobrir contingut.
 
 Permet cercar simultàniament:
 
@@ -72,15 +68,15 @@ Les categories actuen com a filtres ràpids per facilitar la descoberta.
 
 El producte és la unitat principal de descoberta.
 
-Cada fitxa ha de mostrar la informació essencial per ajudar l'usuari a decidir si vol contactar amb el productor.
+Cada fitxa mostra únicament la informació necessària perquè l'usuari decideixi si vol contactar amb el productor.
 
 ## Informació principal
 
 * Fotografia.
 * Nom.
-* Productor.
 * Distància.
 * Municipi.
+* Productor.
 * Descripció.
 * Contacte.
 
@@ -90,7 +86,7 @@ Només es mostren productes disponibles.
 
 # Productor
 
-Cada productor disposa d'una fitxa pròpia.
+Cada productor disposa d'una fitxa pròpia accessible des dels seus productes.
 
 L'objectiu és generar confiança i donar context als productes que ofereix.
 
@@ -109,19 +105,17 @@ La ubicació es mostra a nivell de municipi per preservar la privacitat.
 
 # Mapa
 
-El mapa és una eina d'exploració.
+El mapa és una eina d'exploració del territori.
 
 Complementa la navegació principal, però no n'és el punt d'entrada.
 
-Permet descobrir productes i productors sobre el territori.
+Permet descobrir productes i productors sobre el territori mantenint la proximitat com a principal criteri de descoberta.
 
 ---
 
 # Favorits
 
-Permet desar productors i productes d'interès.
-
-En el futur podrà facilitar el seguiment de novetats dels productors preferits.
+Permet desar productes i productors d'interès per consultar-los fàcilment més endavant.
 
 ---
 
@@ -143,6 +137,8 @@ Permet gestionar:
 * Productes.
 * Disponibilitat.
 * Contactes.
+
+Un productor també pot actuar com a consumidor.
 
 ---
 

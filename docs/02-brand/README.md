@@ -17,7 +17,8 @@ L'objectiu és definir qui som, què representem i com volem comunicar-ho abans 
 | [`07-TONE-OF-VOICE.md`](07-TONE-OF-VOICE.md)   | Com ens expressem i ens comuniquem.                               |
 | [`08-NAMING.md`](08-NAMING.md)          | Origen i significat del nom Straperla.                            |
 | [`09-TAGLINES.md`](09-TAGLINES.md)        | Frases que defineixen i acompanyen la marca.                      |
-| [`10-VISUAL-IDENTITY.md`](10-VISUAL-IDENTITY.md) | Identitat visual: logotip, colors, tipografia i recursos gràfics. |
+| [`10-VISUAL-IDENTITY.md`](10-VISUAL-IDENTITY.md) | Identitat visual: colors, tipografia i recursos gràfics. |
+| [`11-LOGO.md`](11-LOGO.md) | lOGOTIP|
 
 ---
 

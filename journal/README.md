@@ -20,7 +20,7 @@ Cada entrada documenta:
 | ---------------------- | :------: |
 | M0 · Foundation        |  ✅ Done  |
 | M1 · Product Discovery |  ✅ Done  |
-| M2 · Brand             |  ✅ Done  |
+| M2 · Brand             |  🚧 Doing  |
 | M3 · UX                |  ✅ Done  |
 | M4 · UI                | 🚧 Doing |
 | M5 · Tech              |  ⏳ Todo  |
